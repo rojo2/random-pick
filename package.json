@@ -1,6 +1,6 @@
 {
   "name": "@rojo2/random-pick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/random-pick.cjs.js",
   "module": "dist/random-pick.esm.js",
   "browser": "dist/random-pick.udm.js",
