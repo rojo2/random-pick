@@ -1,10 +1,11 @@
-# Random Between
+# Random Pick 
 ![Travis CI](https://travis-ci.org/rojo2/random-pick.svg?branch=master)
 
 ```javascript
-import randomBetween from "@rojo2/random-pick";
+import randomPick from "@rojo2/random-pick";
 
-const randomValue = randomBetween(Math.random, 2, 3); // random value between 2 and 3
+const listOfNumbers = [1,2,3,4];
+const number = randomPick(listOfNumbers); // random value from listOfNumbers 
 ```
 
 Made with :heart: by ROJO 2 (http://rojo2.com)
